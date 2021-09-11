@@ -10,7 +10,7 @@ This is a Repo for expressing myself.
 
 **Bio:** I consider myself a Tech Enthusiast. I am a very curious person and I love exploring tech like distro hopping, customizing linux DE, so on. Also I am interested in Photo manupulations, fliming (Maybe oneday) and Music production. 
 
-**Link:** https://github.com/SP-XD/demo-repo2
+**Link:** https://github.com/SP-XD/SP-XD
 
 **Feedback:** No Suggestions, You guys are awesome.
 
