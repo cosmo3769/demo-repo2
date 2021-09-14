@@ -1,6 +1,5 @@
 # About You Template
 
-This is a Repo for expressing yourself. You must follow this particular template to tell us about yourself.
 
 **Name:** Aritra Das
 
