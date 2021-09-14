@@ -1,6 +1,3 @@
-# About You Template
-
-
 **Name:** Aritra Das
 
 **Stream:** CSE
